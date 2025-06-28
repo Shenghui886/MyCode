@@ -2,6 +2,7 @@
 
 ===== TODAY'S COMPLETED TASKS =====
 - [x] 完成了Git的初步学习,掌握了基本命令并且与GitHub进行了关联
+- [x] 建立了每日任务框架
 
 ===== TODAY'S UNCOMPLETED TASKS =====
 - [ ] None (carry to tomorrow)
