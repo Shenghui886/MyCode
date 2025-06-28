@@ -1,0 +1,13 @@
+// Generated: 2025-06-28
+
+===== TODAY'S COMPLETED TASKS =====
+- [x] 完成了Git的初步学习,掌握了基本命令并且与GitHub进行了关联
+
+===== TODAY'S UNCOMPLETED TASKS =====
+- [ ] None (carry to tomorrow)
+
+===== TOMORROW'S TASKS =====
+- [ ] 复习摄影测量学,至少做一套习题,至少复习完前四章
+- [ ] 复习数字地形测量学,完成一套卷子,熟悉题型
+
+// Faster progress tracking
