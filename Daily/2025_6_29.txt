@@ -1,0 +1,15 @@
+// Generated: 2025-06-30
+
+===== TODAY'S COMPLETED TASKS =====
+- [x] 复习了摄影测量学, 但只复习了前三章, 没有找到往年卷子
+- [x] 复习了数字地形测量学, 没有找到往年卷子
+
+===== TODAY'S UNCOMPLETED TASKS =====
+- [ ] None (carry to tomorrow)
+
+===== TOMORROW'S TASKS =====
+- [ ] 复习摄影测量学(6月30日下午考)
+- [ ] 继续复习数字地形测量学(7月1日上午考)
+- [ ] 复习地理信息系统原理(7月1日下午考, 时间紧任务重)
+
+// Faster progress tracking
