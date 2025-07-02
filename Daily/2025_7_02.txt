@@ -1,0 +1,15 @@
+// Generated: 2025-07-02
+
+===== TODAY'S COMPLETED TASKS =====
+- [x] 复习卫星导航定位原理
+- [x] 复习地球科学概论(7月2日上午考)
+
+===== TODAY'S UNCOMPLETED TASKS =====
+- [ ] None
+
+===== TOMORROW'S TASKS =====
+- [ ] 复习地球科学概论(7月2日上午考)
+- [ ] 继续在gobyexample上学习go
+- [ ] 做一道Luogu题目(C++ 和 lua)
+
+// Faster progress tracking
