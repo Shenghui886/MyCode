@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.glsl": "glsl",
+		"*.frag": "glsl",
+		"utility": "cpp"
+	}
+}
