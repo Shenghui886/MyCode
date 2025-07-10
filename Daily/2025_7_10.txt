@@ -1,0 +1,14 @@
+// Generated: 2025-07-11
+
+===== TODAY'S COMPLETED TASKS =====
+- [x] 继续在gobyexample上学习go(学至少2个章节)
+- [x] 做一道Luogu题目(C++ 和 lua)
+
+===== TODAY'S UNCOMPLETED TASKS =====
+- [ ] 一道Luogu题目(我得改变策略了,不能用Lua做题了,改成go)
+
+===== TOMORROW'S TASKS =====
+- [ ] 继续在gobyexample上学习go(学至少2个章节)
+- [ ] 做一道Luogu题目(C++ 和 go)
+
+// Faster progress tracking
